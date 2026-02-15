@@ -1,14 +1,14 @@
 #
 # 💥 лох пидр чмо гондон 💥
 #
-# 📅 Обновлено: 2026-02-15 21:53:46 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-15 22:13:32 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ)
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&security=reality&sid=5f22&sni=yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=aad92345&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
 vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@95.163.210.225:8443?encryption=none&fp=chrome&mode=auto&path=/api/v2/updates&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&security=reality&sni=01.img.avito.st&type=xhttp#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://65704afe-e26a-4266-9ff3-4d09c0f04c14@151.236.114.162:6443?type=tcp&security=reality&encryption=none&fp=qq&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&sid=f3e8b2b1&sni=max.ru&spx=/#%28VP1596%29%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20CDN
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c8x7I-K2ONBUw5B2d1aZr7JNcFUu7GDfs8PAK-4qM1E&security=reality&sid=0d33e856&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=aad92345&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.210.225:8443?encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%2C%22scStreamUpServerSecs%22%3A%2230-90%22%7D&fp=chrome&mode=auto&path=/api/v2/updates&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&security=reality&sni=01.img.avito.st&type=xhttp#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:8443?encryption=none&fp=chrome&mode=auto&path=/api/v2/updates&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&security=reality&sni=01.img.avito.st&type=xhttp#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
