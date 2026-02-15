@@ -1,14 +1,14 @@
 #
 # 💥 лох пидр чмо гондон 💥
 #
-# 📅 Обновлено: 2026-02-16 02:51:53 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-16 03:11:32 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ)
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://e6c99501-2522-47dd-9652-f0ef12d6f277@5.188.142.170:443?encryption=none&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&security=reality&sid=06bf5b24acb9&sni=eh.vk.com&type=tcp#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BA%5D%20%5B%2ACIDR%5D%20VK
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.208.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=a1b2c3d4&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20VK
-vless://04f040e8-1d14-4969-94ad-6bc0ac633063@5.188.140.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ads.x5.ru#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%28VP1596%29%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20VK
+vless://04f040e8-1d14-4969-94ad-6bc0ac633063@5.188.140.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.69:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BH%5D%20%5B%2ACIDR%5D%20VK
+vless://04f040e8-1d14-4969-94ad-6bc0ac633063@5.188.140.115:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%28VP1596%29%20%F0%9F%8C%90%20Anycast-IP%20%7C%20GB%2C%20RU%20%5B%2ACIDR%5D%20VK
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IJXhnkkk8ouGXeOF1DXEfsz8HsuQHZBJm8VXlRMd0Hg&security=reality&sid=1d33e456&sni=eh.vk.com&type=tcp#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BA%5D%20%5B%2ACIDR%5D%20VK
