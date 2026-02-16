@@ -2,7 +2,7 @@
 # 💥 лох пидр чмо гондон 💥
 #
 # 🌍 Зарубежные серверы (без РФ)
-# 📅 Обновлено: 2026-02-16 11:24:41 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-16 11:44:42 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ) | Сортировка: пинг (мс)
 #
@@ -11,5 +11,5 @@
 vless://298b3c63-e52e-42ec-90b8-5fa8078d9cbd@188.72.103.3:443?alpn=h3%2Ch2%2Chttp/1.1&encryption=none&host=yc-nl.quattro-tech.ru&fp=chrome&path=/websocket&security=tls&sni=yc-nl.quattro-tech.ru&type=ws#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%8C%90%20%F0%9F%94%B0%20%5BYA%5D
 vless://5df480d6-3e18-410b-9b4e-6b1612dec62e@178.248.238.133:10065?alpn=h3%2Ch2%2Chttp/1.1&encryption=none&host=stream-1.kinograd.online&fp=chrome&path=/live/stream%3Fmodule%3Dvideo-cdn%26app_client_id%3Dcc8c59b8-7c86-417b-a522-b0cc29fcc2f8&security=tls&sni=stream-1.kinograd.online&type=ws#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%8C%90
 vless://5df480d6-3e18-410b-9b4e-6b1612dec62e@81.161.98.162:10065?alpn=h3%2Ch2%2Chttp/1.1&encryption=none&host=kinograd.online&fp=chrome&path=/live/stream%3Fmodule%3Dvideo-cdn%26app_client_id%3Dcc8c59b8-7c86-417b-a522-b0cc29fcc2f8&security=tls&sni=kinograd.online&type=ws#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%8C%90
-vless://298b3c63-e52e-0008-90b8-5fa8078d9cbd@37.139.32.137:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%F0%9F%8C%90%20%F0%9F%94%B0%20%5BVK%5D
-vless://ce7f5e28-d72d-4006-8d70-f428a4721910@95.163.210.225:8443?encryption=none&extra=%7B%22mode%22&fp=chrome&mode=auto&path=/api/v2/updates&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&security=reality&sni=01.img.avito.st&type=xhttp#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%F0%9F%8C%90%20%5BVK%5D
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.208.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=a1b2c3d4&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%F0%9F%8C%90%20%5BVK%5D
+vless://1c5f7c8c-e49a-4cf3-9ca9-ff4497eda5f1@95.163.210.225:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&sni=01.img.avito.st&path=/api/v2/updates&mode=auto#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%F0%9F%8C%90%20%5BVK%5D
