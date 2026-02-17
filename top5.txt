@@ -2,14 +2,14 @@
 # 💥 лох пидр чмо гондон 💥
 #
 # 🌍 Зарубежные серверы (без РФ)
-# 📅 Обновлено: 2026-02-17 06:29:01 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-17 06:49:06 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ) | Сортировка: пинг (мс)
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://f5c68562-6a8b-4e44-828c-3413981d189d@146.185.196.75:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HkgZIqlj-ne064JSBX5rY2WpSZwnNhXNkpNxz9orRH8&security=reality&sid=60211b6f54cb&sni=vashsender.ru&type=tcp#%28VP1596%29%20%F0%9F%8C%90%20H%20CZ%2C%20SK%20%F0%9F%94%B0
-vless://f5c68562-6a8b-4e44-828c-3413981d189d@146.185.196.75:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HkgZIqlj-ne064JSBX5rY2WpSZwnNhXNkpNxz9orRH8&security=reality&sid=830f30589309&sni=eh.vk.ru&type=tcp#%28VP1596%29%20%F0%9F%8C%90%20H%20CZ%2C%20SK%20%F0%9F%94%B0
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.18:1488?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&path=/#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20F%20%F0%9F%94%B0%20%5BVK%5D
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.142.120:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%F0%9F%8C%90%20%5BVK%5D
-vless://8dd23657-db7b-444a-824a-079910431ef4@146.185.241.27:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20%5BVK%5D
+vless://f5c68562-6a8b-4e44-828c-3413981d189d@146.185.196.75:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HkgZIqlj-ne064JSBX5rY2WpSZwnNhXNkpNxz9orRH8&security=reality&sid=d5&sni=ads.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%F0%9F%8C%90
+vless://f5c68562-6a8b-4e44-828c-3413981d189d@146.185.196.75:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HkgZIqlj-ne064JSBX5rY2WpSZwnNhXNkpNxz9orRH8&sid=60211b6f54cb&sni=vashsender.ru#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%F0%9F%8C%90
+vless://59fd126f-b6e5-4f0c-8eb8-4f2c0a05071b@95.163.212.112:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bhmXYuOivgD85xqBI7NSernxk-lKYqjLpC3jYsMDQgk&sid=2e351b028a&sni=event.yandex.ru#%28VP1596%29%20%F0%9F%8C%90%20CH%2C%20SK%20%F0%9F%94%B0%20%5BVK%5D
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.210.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=bbea2805&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20%5BVK%5D
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@95.163.210.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=44f0602c&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20%5BVK%5D
