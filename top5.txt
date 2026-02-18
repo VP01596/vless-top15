@@ -2,14 +2,14 @@
 # 💥 лох пидр чмо гондон 💥
 #
 # 🌍 Зарубежные серверы (без РФ)
-# 📅 Обновлено: 2026-02-17 23:18:16 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-17 23:51:31 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ) | Сортировка: пинг (мс)
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@95.163.208.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=aad92345&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%F0%9F%8C%90%20%5BVK%5D
-vless://e4ffd1f2-6032-4f59-8b62-852312b592f5@79.174.94.49:21314?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=VLTPbv0RFFV3b1SZsYV4NXDgNmhzx_mtyKCOy509hVQ&sid=fe98f19f16f18265&spx=/&type=xhttp&path=/&mode=auto#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%F0%9F%8C%90
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@95.163.182.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=44f0602c&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%90%20%5BVK%5D
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.210.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=bbea2805&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20%5BVK%5D
-vless://c77a679c-6bad-4d53-aeb7-39f6af4e73ae@89.208.223.68:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hXp7Ia7jr0LboFAQvNe2N45RxdvRMTZh2pG1Sf9btV4&security=reality&sid=5ce778e79af546&sni=max.ru&type=tcp#%28VP1596%29%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%F0%9F%8C%90%20%5BVK%5D
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.21:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=aad92345&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%90%20%5BVK%5D
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@95.163.210.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=44f0602c&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%F0%9F%8C%90%20%5BVK%5D
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%F0%9F%8C%90%20%5BVK%5D
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=e5f67890&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%F0%9F%8C%90%20%5BVK%5D
+vless://26590351-6442-4bad-a616-953f7037a147@95.163.213.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=e5f67890&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%90%20%5BVK%5D
