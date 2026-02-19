@@ -2,14 +2,14 @@
 # 💥 лох пидр чмо гондон 💥
 #
 # 🌍 Зарубежные серверы (без РФ)
-# 📅 Обновлено: 2026-02-19 19:11:52 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-19 19:21:07 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
 # 🌍 Топ-5 зарубежных серверов (без РФ) | Сортировка: пинг (мс)
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@95.163.209.67:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=bbea2805&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%E2%9D%95%20%5BVK%5D
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.138:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#%28VP1596%29%20%F0%9F%87%AA%F0%9F%87%AA%20EST%20%E2%9D%95%20%5BVK%5D
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=e5f67890&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20SWE%20%E2%9D%95%20%5BVK%5D
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.210.202:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=bbea2805#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%E2%9D%95%20%5BVK%5D
-vless://1b51d814-bfb2-4e12-a8f2-f01925c19500@95.174.93.49:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=CuX0P2TdD12NUFPEqm1jUkg0JyNOvLtkjsy7ZZzsyhQ&sid=41efd2fecb7cb3a5&sni=funds.strelkavpn.ru&spx=/#%28VP1596%29%20%F0%9F%87%B1%F0%9F%87%BA%20RUS%20%E2%9D%95
+vless://d6a2abd2-519f-4de5-b1d6-16f8d0cfe8d9@188.72.103.3:443?alpn=h3%2Ch2%2Chttp/1.1&encryption=none&host=yc-nl.quattro-tech.ru&fp=chrome&path=/websocket&security=tls&sni=yc-nl.quattro-tech.ru&type=ws#%28VP1596%29%20%F0%9F%87%A6%F0%9F%87%AA%20ARE
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.177.165.17:443?security=tls&type=ws&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=/eyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.41.75:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/%3Fed%3D2048#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
+vless://a634a066-a73c-4dc6-93d6-d235eba56a75@172.64.155.209:2052?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn&ed=1024&eh=Sec-WebSocket-Protocol#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
