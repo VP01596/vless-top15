@@ -2,14 +2,13 @@
 # 💥 лох пидр чмо гондон 💥
 #
 # 🌍 Зарубежные серверы (без РФ)
-# 📅 Обновлено: 2026-02-19 19:21:07 (Москва, UTC+3)
+# 📅 Обновлено: 2026-02-19 19:36:28 (Москва, UTC+3)
 # 🔄 Автообновление каждые 10 минут
-# 🌍 Топ-5 зарубежных серверов (без РФ) | Сортировка: пинг (мс)
+# 🌍 Топ-5 зарубежных серверов | VLESS+Trojan+Hysteria2 | Сортировка: пинг
 #
 # ⚠️ Предупреждение: используйте на свой страх и риск
 #
-vless://d6a2abd2-519f-4de5-b1d6-16f8d0cfe8d9@188.72.103.3:443?alpn=h3%2Ch2%2Chttp/1.1&encryption=none&host=yc-nl.quattro-tech.ru&fp=chrome&path=/websocket&security=tls&sni=yc-nl.quattro-tech.ru&type=ws#%28VP1596%29%20%F0%9F%87%A6%F0%9F%87%AA%20ARE
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.177.165.17:443?security=tls&type=ws&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#%28VP1596%29%20%F0%9F%87%BA%F0%9F%87%B8%20USA
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=/eyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.41.75:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/%3Fed%3D2048#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
-vless://a634a066-a73c-4dc6-93d6-d235eba56a75@172.64.155.209:2052?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn&ed=1024&eh=Sec-WebSocket-Protocol#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%28VP1596%29%20%F0%9F%87%A8%F0%9F%87%A6%20CAN%20%5BTR%5D
+vless://e4ffd1f2-6032-4f59-8b62-852312b592f5@79.174.94.49:21314?encryption=none&fp=chrome&mode=auto&path=/&pbk=VLTPbv0RFFV3b1SZsYV4NXDgNmhzx_mtyKCOy509hVQ&security=reality&sid=fe98f19f16f18265&sni=api-maps.yandex.ru&type=xhttp#%28VP1596%29%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%E2%9D%95
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@95.163.208.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=bbea2805&sni=api-maps.yandex.ru&type=tcp#%28VP1596%29%20%F0%9F%87%B8%F0%9F%87%AA%20SWE%20%E2%9D%95%20%5BVK%5D
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@95.163.209.67:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=44f0602c&sni=api-maps.yandex.ru#%28VP1596%29%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%E2%9D%95%20%5BVK%5D
