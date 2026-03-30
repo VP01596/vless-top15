@@ -1,6 +1,6 @@
 # Checker 4.0 | OtherProtocolNW.txt
-hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%2329bf96
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%23850e9b
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%2329bf96
 hysteria2://123456789StrongPass@144.31.224.14:4431?insecure=1#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%2317d105
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=/#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%97%BA%EF%B8%8F%20%23f0ccd8
 hysteria2://123456789StrongPass@144.31.224.14:44311?sni=eh.vk.com&insecure=1&allowInsecure=1#%5B1596%5D%F0%9F%90%9F%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%90%9F%20%F0%9F%93%91%20%F0%9F%9A%80%20%23dc4d5d
