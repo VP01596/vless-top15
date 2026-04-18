@@ -1,4 +1,4 @@
-# Checker 5.0 | pool12 | whitelist.txt | 2026-04-18 10:53:51 UTC
+# Checker 5.0 | pool12 | whitelist.txt | 2026-04-18 11:33:49 UTC
 vless://1cda4a0f-7515-49f6-aa13-10ab8746e8cd@213.171.26.10:3443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&type=xhttp&path=/&mode=auto&extra=null#%5B1596%5D%F0%9F%A9%BB_%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%F0%9F%93%91%20%2391ed22
 vless://14144ce1-afac-4351-8253-0b806fc68938@51.250.6.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esg.x5.ru&fp=chrome&pbk=6S9Wy_u58vloVUxfyds4xCl8QCLklDKwP3uXTyd3THw&sid=fb99c430cd990d2b&spx=/&type=tcp&headerType=none#%5B1596%5D%F0%9F%A9%BB_%20%F0%9F%87%B8%F0%9F%87%AA%20SWE%20%F0%9F%93%91%20%5BYA%5D%20%236ee458
 vless://e2cb4685-fbf8-4dc3-9afc-653cbdeae1d9@tlc.convert24.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=convert24.ru&fp=chrome&pbk=HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI&sid=0d3c8408d1c8fecb&type=tcp&headerType=none#%5B1596%5D%F0%9F%A9%BB_%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%93%91%20%5BVK%5D%20%23eed4ce
