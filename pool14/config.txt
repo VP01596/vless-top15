@@ -1,1 +1,2 @@
-# Checker 5.0 | pool14 | hysteria2 | 2026-04-18 10:13:42 UTC
+# Checker 5.0 | pool14 | hysteria2 | 2026-04-18 10:53:55 UTC
+hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@152.70.176.68:11?insecure=1&sni=www.bing.com#%5B1596%5D%F0%9F%8D%91_%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%9A%80%20%236703fa
