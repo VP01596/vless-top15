@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-04-29 05:41:07 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-04-29 06:21:16 UTC
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%233584e0
-trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/%3Fed%3D2560%26https%3A//t.me/%40anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23d0b115
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ch-2.bexum.fun#%5B1596%5D%E2%AD%90%20%F0%9F%87%A8%F0%9F%87%BF%20CZE%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23e413b7
+trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/%3Fed%3D2560%26https%3A//t.me/%40anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23d0b115
