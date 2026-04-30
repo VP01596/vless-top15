@@ -1,3 +1,2 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-04-30 11:01:24 UTC
-trojan://_5BI8wzXg_8HWndAxpEoAA@ru.connectservice.top:2096?security=reality&sni=s3.yandexcloud.net&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%E2%AD%90%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%2346d87a
+# Checker 6.0 | OtherProtocolNW.txt | 2026-04-30 11:41:09 UTC
 trojan://_5BI8wzXg_8HWndAxpEoAA@msc.mkaservice.top:2096?security=reality&sni=s3.yandexcloud.net&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%2318d5b1
