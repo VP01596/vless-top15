@@ -1,6 +1,6 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-04-30 05:41:23 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-04-30 06:21:22 UTC
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:55551?headerType=none&encryption=none&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AD%F0%9F%87%B0%20RUS%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%234be808
 hysteria2://hysteria_master_password@72.56.122.195:4431?insecure=1&sni=www.bing.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23a607b3
+trojan://6CepD-rVGE5TFG2YQaTf5g@66.23.207.68:443?security=none&type=ws&path=/&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23409630
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%23503b3c
 trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%236f7599
-trojan://6CepD-rVGE5TFG2YQaTf5g@66.23.207.68:443?security=none&type=ws&path=/&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23409630
