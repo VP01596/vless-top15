@@ -1,4 +1,4 @@
-# Checker 6.0 | noVless.txt | 2026-04-30 09:41:05 UTC
-trojan://_5BI8wzXg_8HWndAxpEoAA@ru.connectservice.top:2096?security=reality&sni=s3.yandexcloud.net&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%E2%AD%90%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%2346d87a
+# Checker 6.0 | noVless.txt | 2026-04-30 10:21:05 UTC
 trojan://_5BI8wzXg_8HWndAxpEoAA@ru3.connectservice.top:41458?security=reality&sni=max.ru&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%E2%AD%90%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BYA%5D%20%23a8963b
 trojan://_5BI8wzXg_8HWndAxpEoAA@msc.mkaservice.top:2096?security=reality&sni=s3.yandexcloud.net&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%2318d5b1
+trojan://_5BI8wzXg_8HWndAxpEoAA@ru.connectservice.top:2096?security=reality&sni=s3.yandexcloud.net&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&type=tcp#%5B1596%5D%E2%AD%90%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%2346d87a
