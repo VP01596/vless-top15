@@ -1,7 +1,5 @@
-# Checker 6.0 | noVless.txt | 2026-05-01 02:20:29 UTC
-hysteria2://hysteria_master_password@72.56.122.195:4431?encryption=none&sni=google.com&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23a607b3
+# Checker 6.0 | noVless.txt | 2026-05-01 05:14:49 UTC
+hysteria2://hy2_o3qkn50k%3AkvRaY1alT0dNK3JZkr6Z09uAQ2Zcyhzk@cz.washing.help:4431?headerType=none&encryption=none&sni=cz.washing.help&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A8%F0%9F%87%BF%20CZE%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23d1c33a
 hysteria2://811f37e7-5dfd-4e41-a176-aae13c364252@fr.verymad.net:23661?sni=fr.verymad.net#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23d3e9fa
-trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/%3Fed%3D2560%26https%3A//t.me/%40anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23d0b115
-trojan://6CepD-rVGE5TFG2YQaTf5g@66.23.207.68:443?type=ws&host=telegram.org&path=/#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23409630
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=1&insecure=1&ws=1&wspath=%252Ff2fc2a1f&type=tcp&security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%236f7599
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%23503b3c
+hysteria2://hy2_o3qkn50k%3AZMoiU0jihcJtepMQ5aBRhHjfP5BD379E@gb2.cleanersaz.help:44321?headerType=none&encryption=none&sni=gb2.cleanersaz.help&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23397c03
+hysteria2://hy2_o3qkn50k%3AZjQvFzETUDLUl12RPzcdtueXpBpFDmUN@washing.help:4431?headerType=none&encryption=none&sni=washing.help&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2359d390
