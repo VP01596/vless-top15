@@ -1,9 +1,8 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-01 14:35:06 UTC
-hysteria2://hy2_o3qkn50k%3AhaTs3koPa4LsveLxOAhojORDZpxEWV4V@us3.washing.help:44330?headerType=none&encryption=none&sni=us3.washing.help&insecure=0#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2308ba24
-hysteria2://hy2_o3qkn50k%3AhaTs3koPa4LsveLxOAhojORDZpxEWV4V@us3.washing.help:44303?insecure=0&sni=us3.washing.help#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23bee374
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-01 15:15:16 UTC
 hysteria2://hy2_o3qkn50k%3AZMoiU0jihcJtepMQ5aBRhHjfP5BD379E@gb2.cleanersaz.help:44321?headerType=none&encryption=none&sni=gb2.cleanersaz.help&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23397c03
 hysteria2://hy2_o3qkn50k%3AZMoiU0jihcJtepMQ5aBRhHjfP5BD379E@gb.cleanersaz.help:4431?headerType=none&encryption=none&sni=gb.cleanersaz.help&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23b6ab03
 hysteria2://hy2_o3qkn50k%3AlyN5GDzh8GpdG0EUHcaNjGYQh5ADiwfn@hy.fr.cleanersaz.help:4430?insecure=0&sni=hy.fr.cleanersaz.help#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23c327f3
+hysteria2://hy2_o3qkn50k%3AhaTs3koPa4LsveLxOAhojORDZpxEWV4V@us3.washing.help:44303?insecure=0&sni=us3.washing.help#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23bee374
+hysteria2://hy2_o3qkn50k%3AhaTs3koPa4LsveLxOAhojORDZpxEWV4V@us3.washing.help:44330?headerType=none&encryption=none&sni=us3.washing.help&insecure=0#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2308ba24
 trojan://strong-secret-pass-777@45.12.146.179:4443?security=tls&allowInsecure=1&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BTR%5D%20%F0%9F%8E%88%20%23d0117e
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&insecure=0&allowInsecure=0&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%236f7599
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%23503b3c
