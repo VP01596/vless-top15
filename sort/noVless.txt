@@ -1,2 +1,2 @@
-# Checker 6.0 | noVless.txt | 2026-05-02 05:14:41 UTC
+# Checker 6.0 | noVless.txt | 2026-05-02 05:55:03 UTC
 trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%F0%9F%8E%88%20%238482bc
