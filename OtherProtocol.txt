@@ -1,2 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-05-04 06:35:46 UTC
+# Checker 6.0 | OtherProtocol.txt | 2026-05-04 07:15:44 UTC
 trojan://r1EkRzwp4P@93.177.116.27:34190?type=tcp&security=reality&pbk=zHMhSWSTQOzdltHpDUJfuXhtZuaojDcdenBjfmYU-1Q&fp=chrome&sni=www.ya.ru&sid=47&spx=/#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%23933abb
