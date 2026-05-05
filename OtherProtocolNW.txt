@@ -1,3 +1,6 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-05 18:23:57 UTC
-hysteria2://DBUklcvOyH@45.81.19.251:4431?security=tls&insecure=1&sni=web.bale.ai#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230f613c
-hysteria2://Fa3JN012u2@x.kishonline.online:4430?security=tls&obfs=salamander&obfs-password=kish-data&insecure=0&sni=x.kishonline.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%235ef720
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-05 19:03:45 UTC
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:20561?headerType=none&encryption=none&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23e88838
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:4431?insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BB%F0%9F%87%B3%20RUS%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2318db68
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:4431?insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AF%F0%9F%87%B5%20JPN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23aee8b1
+trojan://4vCBqDh0zrHAAbtDBHI-FQ@66.23.207.68:443?security=none&type=ws&path=/&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23aef883
+trojan://QwGUXzFXckGoS5x521ljaQ@66.23.207.68:443?type=ws&host=telegram.org&path=/&security=none#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23ed9861
