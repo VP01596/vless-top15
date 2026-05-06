@@ -1,2 +1,3 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-05-06 03:44:21 UTC
-trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443?security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=5post-gate.x5.ru&sid=aabbccdd#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%E2%9C%B4%EF%B8%8F%20%233cf0c3
+# Checker 6.0 | OtherProtocol.txt | 2026-05-06 04:24:17 UTC
+trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ya.ru&sid=aabbccdd#%5B1596%5D%E2%AD%90%20%F0%9F%87%B8%F0%9F%87%AA%20SWE%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BYA%5D%20%233783d1
+trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443?type=tcp&sni=5post-gate.x5.ru&fp=random&security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&sid=aabbccdd#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BYA%5D%20%233cf0c3
