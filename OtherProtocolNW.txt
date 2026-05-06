@@ -1,2 +1,2 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-06 12:23:54 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-06 13:03:32 UTC
 hysteria2://bc93605a@lb.stlive.top:41331?headerType=none&encryption=none&sni=bing.com&insecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23ea4134
