@@ -1,7 +1,5 @@
-# Checker 6.0 | noVless.txt | 2026-05-08 03:03:29 UTC
-trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/%3Fed%3D2560&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23d0b115
-trojan://TXFkyCbNU4WTD3Xebs7bog@216.105.168.58:443?security=none&type=ws&path=/&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23d4657c
+# Checker 6.0 | noVless.txt | 2026-05-08 03:42:20 UTC
 hysteria2://DBUklcvOyH@45.81.19.251:4431?security=tls&insecure=1&sni=web.bale.ai#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230f613c
+hysteria2://tSVwuwRnNk@srm.kishonline.online:4430?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2320d986
 hysteria2://Kz0JGcGICb@srm.kishonline.online:4430?obfs=salamander&obfs-password=kish-data-center&sni=srm.kishonline.online&insecure=0#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230bdc0b
 hysteria2://Fa3JN012u2@x.kishonline.online:4430?security=tls&obfs=salamander&obfs-password=kish-data&insecure=0&sni=x.kishonline.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%235ef720
-hysteria2://tSVwuwRnNk@srm.kishonline.online:4430?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2320d986
