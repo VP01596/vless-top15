@@ -1,9 +1,9 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-11 19:43:17 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-11 20:22:59 UTC
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23850e9b
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23e29b69
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%F0%9F%8E%88%20%23225dbf
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%F0%9F%8E%88%20%23310e4e
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23f209a6
+trojan://162534@217.60.248.94:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23b1aa82
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&alpn=h2%2Chttp/1.1&type=tcp#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%236cd420
 trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23381b44
 trojan://67f4b8ff-15cf-3ec9-b09d-c31a4728c652@strawberry.joe.dj:10777?security=tls&sni=windows11.dpdns.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23065f99
