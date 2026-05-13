@@ -1,5 +1,4 @@
-# Checker 6.0 | OnlyRus.txt | 2026-05-13 15:28:35 UTC
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23ace515
+# Checker 6.0 | OnlyRus.txt | 2026-05-13 16:08:35 UTC
 vless://0473c293-802d-4daf-b611-11a9a71bbd1b@95.163.211.237:8080?type=tcp&security=reality&fp=qq&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=sso.passport.yandex.ru#%5B1596%5D%F0%9F%A6%8B%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%A6%8B%20%23682795
 vless://01238a95-3d94-437b-8864-53100b7fbb55@84.201.178.58:2083?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=8f5I_x37Fb51fHweqlohDZn19RwFyymS6XkEDBCn9Sw&sid=3dfefbaf7319b548#%5B1596%5D%F0%9F%A6%8B%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%A6%8B%20%2355095c
 vless://01ad0351-a5b7-4fd1-a11b-c860bdb8ec91@212.233.99.180:40443?type=tcp&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&flow=xtls-rprx-vision&allowInsecure=1#%5B1596%5D%F0%9F%A6%8B%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%A6%8B%20%23740576
