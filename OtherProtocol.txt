@@ -1,2 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-05-07 17:03:38 UTC
-trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443?type=tcp&sni=5post-gate.x5.ru&fp=random&security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&sid=aabbccdd#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BTR%5D%20%E2%9C%B4%EF%B8%8F%20%F0%9F%93%91%20%5BYA%5D%20%233cf0c3
+# Checker 6.0 | OtherProtocol.txt | 2026-05-25 01:27:59 UTC
+trojan://204bc731190243e7a8cc9c1d0b7ac3ba@94.103.2.31:9443?security=reality&sni=static.rutube.ru&pbk=Zuu0slAOjX2uWf6-xRWeZzv7O_URTgpe8BHpvoS1llw&sid=aabbccdd&type=tcp&fp=random#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23d0596a
