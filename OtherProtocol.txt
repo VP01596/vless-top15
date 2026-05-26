@@ -1,3 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-05-26 06:47:46 UTC
+# Checker 6.0 | OtherProtocol.txt | 2026-05-26 07:27:35 UTC
 trojan://204bc731190243e7a8cc9c1d0b7ac3ba@94.103.2.31:9443?security=reality&sni=static.rutube.ru&pbk=Zuu0slAOjX2uWf6-xRWeZzv7O_URTgpe8BHpvoS1llw&sid=aabbccdd&type=tcp&fp=random#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23d0596a
-trojan://fGLB_0ycPhBfHRNUwgHAu1KVvjpZSdmm@multi.fresedvpn.site:63443?security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=2eYi7TWcvCO3zTXZmk13VH-QL5-oDYJ6w9UQxclygFE&sid=cba9ab2cb94fcabc&type=tcp#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%97%BA%EF%B8%8F%20%239ce5e1
