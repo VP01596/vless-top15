@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-27 17:27:14 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-27 18:07:26 UTC
 hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:44320?sni=fi2.alexanderoff.ru&insecure=0#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23768278
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ascjp.ntt1.ccddn4.icu:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AF%F0%9F%87%B5%20JPN%20%5BTR%5D%20%F0%9F%8E%88%20%5BYA%5D%20%239f768d
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AF%F0%9F%87%B5%20JPN%20%5BTR%5D%20%F0%9F%8E%88%20%5BYA%5D%20%23a8d6bf
