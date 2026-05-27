@@ -1,3 +1,3 @@
-# Checker 6.0 | noVless.txt | 2026-05-27 14:47:01 UTC
+# Checker 6.0 | noVless.txt | 2026-05-27 15:26:55 UTC
 trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&fp=chrome&allowInsecure=1&ech=ip.gs%20udp%3A//8.8.8.8#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%F0%9F%8E%88%20%2379b1c4
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ascjp.ntt1.ccddn4.icu:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AF%F0%9F%87%B5%20JPN%20%5BTR%5D%20%F0%9F%8E%88%20%5BYA%5D%20%239f768d
