@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-27 23:27:14 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-28 00:07:13 UTC
 hysteria2://qqqqqq:Wvu3SPFZQP2qVATBsz5V@fi2.alexanderoff.ru:44320?sni=fi2.alexanderoff.ru&insecure=0#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23768278
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%2379b1c4
 trojan://humanity@141.193.213.11:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&path=/assignment#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23fae26c
