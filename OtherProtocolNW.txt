@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-05-28 06:47:21 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-05-28 07:27:25 UTC
 trojan://humanity@208.103.161.101:443?path=/assignment&security=tls&alpn=h2%2Chttp/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%2359a717
 trojan://humanity@141.193.213.11:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&path=/assignment#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23fae26c
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%2379b1c4
