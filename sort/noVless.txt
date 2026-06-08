@@ -1,4 +1,4 @@
-# Checker 6.0 | noVless.txt | 2026-06-08 16:29:39 UTC
+# Checker 6.0 | noVless.txt | 2026-06-08 17:09:52 UTC
 trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%20udp%3A//8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23ce8010
 trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?security=tls&sni=unnes.ac.id.r3xxe.eu.cc&type=ws&path=/au-mt&Host=unnes.ac.id.r3xxe.eu.cc#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A6%F0%9F%87%BA%20AUS%20%5BTR%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%23273702
 trojan://43716b3b-df44-409e-beff-e571e39a889c@193.163.85.39:443?type=ws&headerType=none&security=tls&encryption=none&sni=platyscelis.duckdns.org&path=/vpn&insecure=0#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%F0%9F%8E%88%20%2363bf72
