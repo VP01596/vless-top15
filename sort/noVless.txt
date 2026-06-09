@@ -1,13 +1,7 @@
-# Checker 6.0 | noVless.txt | 2026-06-09 13:50:29 UTC
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23ce8010
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AD%F0%9F%87%B0%20RUS%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%233e8dce
+# Checker 6.0 | noVless.txt | 2026-06-09 14:30:32 UTC
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23ce8010
 trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?security=tls&type=ws&path=/vpn&sni=platyscelis.duckdns.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%F0%9F%8E%88%20%23ef856b
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%2374c3a9
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AE%F0%9F%87%B8%20RUS%20%5BTR%5D%20%F0%9F%8E%88%20%2388c9f1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:46424?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%23074fc6
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:46424?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%238164f6
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A8%F0%9F%87%AD%20CHE%20%5BTR%5D%20%F0%9F%8E%88%20%239a5b49
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:46424?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%23560c18
-hysteria2://Masir_Sefid@18.157.222.169:10400?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2338403c
+trojan://EM7HwoxdP8r5yQoxwDxEJU3VSBAXzAuFGBTUgVMjiuRCkNUN@usa1.bw8848.org:443?type=ws&host=usa1.bw8848.org&path=/usa1-usa1-bktm3x&security=tls&sni=usa1.bw8848.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23603708
 hysteria2://Masir_Sefid@18.157.222.169:4440?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2386bd34
+hysteria2://Masir_Sefid@18.157.222.169:10400?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2338403c
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
