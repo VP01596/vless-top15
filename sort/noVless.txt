@@ -1,6 +1,5 @@
-# Checker 6.0 | noVless.txt | 2026-06-09 15:10:35 UTC
+# Checker 6.0 | noVless.txt | 2026-06-09 15:50:36 UTC
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23ce8010
-trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?security=tls&type=ws&path=/vpn&sni=platyscelis.duckdns.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BTR%5D%20%F0%9F%8E%88%20%23ef856b
 trojan://EM7HwoxdP8r5yQoxwDxEJU3VSBAXzAuFGBTUgVMjiuRCkNUN@usa1.bw8848.org:443?type=ws&host=usa1.bw8848.org&path=/usa1-usa1-bktm3x&security=tls&sni=usa1.bw8848.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23603708
 hysteria2://Masir_Sefid@18.157.222.169:10400?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2338403c
 hysteria2://Masir_Sefid@18.157.222.169:4440?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2386bd34
