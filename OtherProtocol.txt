@@ -1,3 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-06-10 23:10:57 UTC
+# Checker 6.0 | OtherProtocol.txt | 2026-06-10 23:50:49 UTC
 trojan://nNq1XecjhAr5f4gm8ro-Ls5G9GWedPc0@158.160.24.104:443?type=tcp&sni=ads.x5.ru&fp=chrome&security=reality&pbk=yy7ircoME_G27Bh0vXCP7VJg0MrtPovonmY7kGJv0F4&sid=0484213ba76bc1bd#%5B1596%5D%E2%AD%90%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BYA%5D%20%2368dd38
-trojan://H7JYmmq83ud-nKwYVZMsVchJJNjSd_6x@158.160.24.104:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy7ircoME_G27Bh0vXCP7VJg0MrtPovonmY7kGJv0F4&sid=cc22f2896048a3bf#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%E2%9C%B4%EF%B8%8F%20%F0%9F%93%91%20%5BYA%5D%20%23fbc37b
