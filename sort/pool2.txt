@@ -1,2 +1,2 @@
-# Checker 6.0 | pool2.txt | 2026-06-15 12:18:15 UTC
-vless://fb80c1a3-044a-4a1a-b1e3-60387a28650a@51.250.70.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=/#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%E2%9C%B4%EF%B8%8F%20%2342f01c
+# Checker 6.0 | pool2.txt | 2026-06-15 12:58:40 UTC
+vless://51fba5df-6000-421a-b81a-01fc2c42d307@5.188.141.35:993?flow=xtls-rprx-vision&fp=firefox&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&security=reality&sid=bad5722c72a038&sni=ads.x5.ru&type=tcp#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%E2%9C%B4%EF%B8%8F%20%23501709
