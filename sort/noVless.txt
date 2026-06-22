@@ -1,9 +1,10 @@
-# Checker 6.0 | noVless.txt | 2026-06-22 19:39:47 UTC
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:44308?insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#%5B1596%5D%E2%AD%90%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%2335c824
+# Checker 6.0 | noVless.txt | 2026-06-22 20:20:19 UTC
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:4438?security=tls&sni=newlte.kihsuyhf8jkiugsxb.cfd#%5B1596%5D%E2%AD%90%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%2328070b
-hysteria2://cFihfSrWtH@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23ae67bf
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:44380?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%235a81d1
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:4430?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23521552
 hysteria2://V2RayyNGvpn@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%239a7b56
-hysteria2://rQRuZ8nFbC@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2397f484
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.70.127.37:4431?insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%238e048f
-hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
+hysteria2://rQRuZ8nFbC@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2397f484
+hysteria2://cFihfSrWtH@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23ae67bf
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:4432?sni=connect-ger2.gadmap.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2393ad85
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
