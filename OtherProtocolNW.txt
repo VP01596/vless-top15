@@ -1,3 +1,10 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-06-22 23:41:39 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-06-23 00:22:22 UTC
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:44380?encryption=none&headerType=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%235a81d1
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:4430?insecure=0&sni=fta.fontanvpn.com#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%F0%9F%9A%80%20%23521552
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:4438?sni=newlte.kihsuyhf8jkiugsxb.cfd#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2328070b
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:44308?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2335c824
+hysteria2://V2RayyNGvpn@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%239a7b56
+hysteria2://cFihfSrWtH@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23ae67bf
+hysteria2://rQRuZ8nFbC@185.250.41.245:44321?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2397f484
+hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?sni=wuhantravel.duckdns.org#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23308a77
+hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:4432?sni=connect-ger2.gadmap.online#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2393ad85
