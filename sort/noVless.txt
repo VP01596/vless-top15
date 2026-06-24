@@ -1,8 +1,8 @@
-# Checker 6.0 | noVless.txt | 2026-06-24 15:40:55 UTC
+# Checker 6.0 | noVless.txt | 2026-06-24 16:20:58 UTC
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23dfa935
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:4431?insecure=1&sni=fta.fontanvpn.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23bbf3cb
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:4430?headerType=none&sni=fta.fontanvpn.com&encryption=none&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23521552
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?security=tls&sni=fta.fontanvpn.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23864f00
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:4431?insecure=1&sni=fta.fontanvpn.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23d83e18
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:4430?headerType=none&sni=fta.fontanvpn.com&encryption=none&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23521552
-hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
 hysteria2://b95dd8e5-2758-408f-be99-9362eecee609@files.fantoff.online:10808?sni=files.fantoff.online#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2374e1d8
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
