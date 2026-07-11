@@ -1,3 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-07-11 17:20:50 UTC
-hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@vkmks.hysteria.ltd:54433?sni=vkmks.hysteria.ltd&alpn=h3#%5B1596%5D%F0%9F%91%BD%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%91%BD%20%F0%9F%93%91%20%5BVK%5D%20%F0%9F%9A%80%20%232ba2df
+# Checker 6.0 | OtherProtocolNW.txt | 2026-07-11 17:59:13 UTC
+hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@vkmks.hysteria.ltd:54433?sni=vkmks.hysteria.ltd&alpn=h3#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BVK%5D%20%F0%9F%9A%80%20%232ba2df
+hysteria2://V2RayyNgvpn@65.109.177.191:44321?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2318c0e9
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:20561?insecure=1&sni=de.eyucdn.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23d0f070
