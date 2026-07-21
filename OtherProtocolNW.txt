@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-07-21 16:26:33 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-07-21 17:06:23 UTC
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=android&type=ws&host=www.creationlong.org&path=/assignment#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BTR%5D%20%F0%9F%8E%88%20%23ce8010
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram%2B%40WangCai2&fp=chrome#%5B1596%5D%E2%AD%90%20%F0%9F%87%A8%F0%9F%87%A6%20CAN%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%97%BA%EF%B8%8F%20%23d3e96c
 trojan://0cmd8jf967ww2xxu@chatgpt.com:443?mode=auto&security=tls&alpn=h2%2Chttp/1.1&extra=%7B%22uplinkHTTPMethod%22%3A%22POST%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=15.mobailerayan.ir&type=xhttp&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%23c782c1
