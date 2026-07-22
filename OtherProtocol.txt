@@ -1,2 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-07-22 19:07:57 UTC
-trojan://c1d62d53-2fcd-4951-ab96-c81486f59775@cztr1.w-mebel.pro:443?security=reality&type=tcp&pbk=UzUMu3Jq0iuyiEXs362o2EJE2rzVPuD34HMnoAG-qFM&sni=vk.com&sid=e8a81db57cf11014&fp=edge#%5B1596%5D%E2%AD%90%20%F0%9F%87%A8%F0%9F%87%BF%20CZE%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23b0f2d0
+# Checker 6.0 | OtherProtocol.txt | 2026-07-22 19:47:32 UTC
+trojan://c1d62d53-2fcd-4951-ab96-c81486f59775@cztr1.w-mebel.pro:443?security=reality&type=tcp&pbk=UzUMu3Jq0iuyiEXs362o2EJE2rzVPuD34HMnoAG-qFM&sni=vk.com&sid=e8a81db57cf11014&fp=firefox#%5B1596%5D%E2%AD%90%20%F0%9F%87%A8%F0%9F%87%BF%20CZE%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23b0f2d0
