@@ -1,3 +1,3 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-08-16 23:23:01 UTC
+# Checker 6.0 | OtherProtocol.txt | 2026-08-17 00:03:13 UTC
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@multi.techdatacloud.org:8443?type=tcp&security=reality&pbk=WmDWSiRjqhmIKfEvCpL8CdAe3F0W5z0OS_xDH0s4wEU&fp=firefox&sni=storage.yandex.net&sid=58e51fea&spx=/#%5B1596%5D%E2%AD%90%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%97%BA%EF%B8%8F%20%23369357
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=firefox&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%23dccab4
