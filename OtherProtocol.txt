@@ -1,2 +1,2 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-08-18 16:02:52 UTC
+# Checker 6.0 | OtherProtocol.txt | 2026-08-18 17:00:09 UTC
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@by.techdatacloud.org:8443?type=tcp&security=reality&encryption=none&sni=storage.yandex.net&pbk=rX5HLJDZV3q1t1AcSpMroIrfHNoBdlBv7jgKuEhbeg8&sid=89e500f580b8be97&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A7%F0%9F%87%BE%20BLR%20%5BTR%5D%20%F0%9F%8E%88%20%23435b38
