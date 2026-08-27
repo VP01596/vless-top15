@@ -1,5 +1,4 @@
-# Checker 6.0 | OnlyRus.txt | 2026-08-27 08:49:55 UTC
-vless://eb010bf0-a1c6-475c-a13c-d2500222292c@jster-da.pawnet.ink:5443?encryption=none&flow=xtls-rprx-vision&pbk=6oT3bs8gyHdAQj8AOC0RPX7IC60demM_sQM_zTsTU2g&security=reality&sni=travel.yandex.ru&type=tcp&fp=chrome#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23bbbc6e
+# Checker 6.0 | OnlyRus.txt | 2026-08-27 09:29:58 UTC
 vless://eb010bf0-a1c6-475c-a13c-d2500222292c@jster-da.pawnet.ink:7443?encryption=none&pbk=Q2WIjn5aDB_gVDzm_tYFekOFI1Cf1pKhXOx_34PS4So&security=reality&sni=travel.yandex.ru&type=xhttp&fp=android#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23ecbede
 vless://c7a30b74-560c-4561-8f0b-7d70e85c9b5e@178.248.236.138:18443?security=reality&encryption=none&pbk=VUc_2yzS6cjaq_MB8TScaCftgT3oJtP6zpotM5yM_Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=dde21fff#%5B1596%5D%E2%9A%A1%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9A%A1%20%231cb61d
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#%5B1596%5D%E2%9A%A1%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9A%A1%20%237a5296
