@@ -1,3 +1,3 @@
-# Checker 6.0 | OtherProtocol.txt | 2026-08-28 05:24:02 UTC
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=/&type=tcp&headerType=none&fp=firefox#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23a6c08e
+# Checker 6.0 | OtherProtocol.txt | 2026-08-28 06:27:43 UTC
 trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8443?type=tcp&security=reality&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sni=cloud.mail.ru&sid=c5f8dde983234321&spx=/&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%F0%9F%8E%88%20%23e71020
+trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=/&type=tcp&headerType=none&fp=firefox#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BTR%5D%20%F0%9F%8E%88%20%23a6c08e
