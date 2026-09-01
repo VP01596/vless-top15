@@ -1,28 +1,18 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-09-01 16:10:01 UTC
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?sni=hopp-romania-new.roxa.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23f1f00b
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2335778e
-hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443?sni=speedtestmark.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23fc6d4f
-hysteria2://52b140a1-1e12-4410-9532-ebaee7cec3a1@brbr.hisan.space:5443?sni=brbr.hisan.space#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2373ed9a
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AA%F0%9F%87%AA%20EST%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%232bfd4b
-hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@hy-z3q457q-f3b.nl-1.deepl-cdn.com:10443?sni=nl.deepl-cdn.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%F0%9F%9A%80%20%23810ac8
-hysteria2://52b140a1-1e12-4410-9532-ebaee7cec3a1@burger.hisan.space:443?sni=burger.hisan.space#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23053c22
-hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@mmz2-bs1.se.deepl-cdn.com:40443?sni=se.deepl-cdn.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B8%F0%9F%87%AA%20SWE%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%2373bdab
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BTR%5D%20%F0%9F%8E%88%20%238d5442
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:4433?sni=news.gazette.help&alpn=h3#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AA%F0%9F%87%AA%20EST%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%233bb77d
+# Checker 6.0 | OtherProtocolNW.txt | 2026-09-01 17:04:28 UTC
 hysteria2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:4431?insecure=1&sni=cloud.mail.ru#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2302e300
+hysteria2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443?sni=quic.tyr-agentstvo.tech#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23309e81
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:4431?insecure=1&sni=crt.ultimagamest.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%236ce867
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?sni=hopp-romania-new.roxa.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2357c239
+hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?sni=crt.ultimagamest.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2351b250
+hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:4431?insecure=1&sni=hys-mesh.spliceflowtech.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b29a28
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080?sni=grape-turbo-fr.roxa.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%231c5cb9
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080?sni=hopp-germany-new.ddnsguru.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b84275
 hysteria2://oCYFcbOo8s@201.51.24.4:44322?sni=hys22.wba-pn.ru#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23d3f07f
 hysteria2://switzerland_hysteria2_fastlane_8r4fgh8f1:TRVdyaK5S0DUjC46peYVgtw2Ci4GwiCF@45.140.205.58:19353?sni=ch3.h.fastlanehosting.ru#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2362b5c4
-hysteria2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443?sni=quic.tyr-agentstvo.tech#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23309e81
-hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?sni=crt.ultimagamest.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%AC%F0%9F%87%A7%20GBR%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2351b250
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080?sni=hopp-germany-new.ddnsguru.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b84275
-hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:4431?insecure=1&sni=hys-mesh.spliceflowtech.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b29a28
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2336d61b
-hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@ush2.shazamri.xyz:44312?insecure=1&sni=ush2.shazamri.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23603ef5
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?sni=hopp-romania-new.roxa.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2357c239
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:4431?insecure=1&sni=cabinet.wwwinternetvideo.click#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%230ea434
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:4431?insecure=1&sni=t.me#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2389fba6
 hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:44311?insecure=1&sni=md1.cnyvpn.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23a5ca25
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:20561?insecure=1&sni=lmny.mangshe.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23e2b080
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:4431?insecure=1&sni=us.frkn.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%237ab7a7
+hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@ush2.shazamri.xyz:44312?insecure=1&sni=ush2.shazamri.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23603ef5
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:4431?insecure=1&sni=t.me#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2389fba6
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2336d61b
