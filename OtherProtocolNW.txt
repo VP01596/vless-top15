@@ -1,21 +1,19 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-09-05 18:12:44 UTC
-hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?sni=cdncache.pleiades.codes#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%235402d0
+# Checker 6.0 | OtherProtocolNW.txt | 2026-09-05 20:01:36 UTC
 hysteria2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:4431?insecure=1&sni=cloud.mail.ru#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2302e300
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:4431?insecure=1&sni=crt.ultimagamest.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%236ce867
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?sni=hopp-romania-new.roxa.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2357c239
 hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:4431?insecure=1&sni=hys-mesh.spliceflowtech.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b29a28
 hysteria2://BWAFlp8g53@72.56.102.31:4431?insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23d45888
-hysteria2://OD6gGbGU9a@195.133.24.124:44326?sni=hys26.wba-pn.ru#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23feabd6
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:44322?sni=hy2-latvia2.unlimited-access.ru#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%233fb02b
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.166:8443?sni=hopp-netherland-new.dynuddns.net#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230acd26
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:4431?sni=whatsapp.com&insecure=1#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B8%F0%9F%87%AC%20SGP%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2344974d
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080?sni=hopp-germany-new.ddnsguru.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23b84275
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2336d61b
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52050?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230c0846
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:4431?insecure=1&sni=us.frkn.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%237ab7a7
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:4431?insecure=1&sni=fast.wwwinternetvideo.click#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2355b1db
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.166:8443?sni=hopp-netherland-new.dynuddns.net#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230acd26
+hysteria2://OD6gGbGU9a@195.133.24.124:44326?sni=hys26.wba-pn.ru#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23feabd6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:4431?insecure=1&sni=css.rbxcdn.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23906199
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:20561?insecure=1&sni=lmny.mangshe.xyz#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23e2b080
-hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:44311?insecure=1&sni=md1.cnyvpn.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23a5ca25
-hysteria2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:4431?sni=de1.apexvpn.space#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23019e64
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52050?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%230c0846
+hysteria2://kVfzhSpshc@hys1.wba-pn.ru:443#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23068fc7
 hysteria2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2315acdb
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%2336d61b
+hysteria2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:4431?sni=de1.apexvpn.space#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23019e64
+hysteria2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:44311?insecure=1&sni=md1.cnyvpn.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23a5ca25
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:4431?insecure=1&sni=us.frkn.org#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%237ab7a7
