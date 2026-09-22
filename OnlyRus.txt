@@ -1,5 +1,4 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-22 05:40:14 UTC
-vless://515fa0fd-8d70-47dc-a82e-06c257be1fdb@latte.coffebahnem.site:80?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&pbk=qRmJt3yJ1D6msG1yp3CVRZkXbNM_I6cWN07DlYLbHms&type=tcp&headerType=none&fp=ios#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%8E%88%20%237f8fee
+# Checker 6.0 | OnlyRus.txt | 2026-09-22 06:20:21 UTC
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#%5B1596%5D%E2%9A%A1%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9A%A1%20%237a5296
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@93.114.194.131:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#%5B1596%5D%E2%9A%A1%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9A%A1%20%235d0fff
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%5B1596%5D%E2%9A%A1%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9A%A1%20%23545d06
