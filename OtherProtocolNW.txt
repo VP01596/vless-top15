@@ -1,15 +1,12 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-09-22 01:40:37 UTC
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%5B1596%5D%E2%AD%90%20%F0%9F%87%B1%F0%9F%87%BB%20LVA%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23f42d80
+# Checker 6.0 | OtherProtocolNW.txt | 2026-09-22 02:20:30 UTC
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23f3e38e
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44330?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23d7013f
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:4430?sni=msk.frkn.org&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23540193
-trojan://650fc0b6-0082-4bc2-84e6-510a41970df6@51.250.45.147:8443?security=reality&pbk=sEUABt4QQ27IfkJvN7VlQGscq8tkHHsIOzMT6jsaWwg&spx=/&type=tcp&sni=yandex.com&sid=491c9a1907ac51ff&fp=chrome#%5B1596%5D%E2%AD%90%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BTR%5D%20%E2%AD%90%20%F0%9F%93%91%20%5BYA%5D%20%23b3a873
+hysteria2://d76aca2e-1a63-4c00-89fb-07957cecc3e4@ru1.didiservice.com:4431?sni=ru1.didiservice.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%238f137f
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?sni=hopp-germany-new.ddnsguru.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23483393
 hysteria2://gf1:gfhysteria2024@173.212.201.85:4431?insecure=1&sni=www.docker.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23729e32
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:4431?insecure=1&sni=cabinet.wwwinternetvideo.click#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23839f22
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23cc54ae
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:44331?insecure=1&sni=se.xiaoliyu.cyou#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2300b408
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:4431?insecure=1&sni=whatsapp.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23906199
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:4431?insecure=1&sni=admin.wwwinternetvideo.click#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%239b02d5
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:4431?insecure=1&sni=gta.internet-card.sbs#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23025a1e
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:44331?insecure=1&sni=se.xiaoliyu.cyou#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%2300b408
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:4431?insecure=1&sni=admin.wwwinternetvideo.click#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%239b02d5
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:4431?insecure=1&sni=whatsapp.com#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23906199
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%23cc54ae
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%5B1596%5D%F0%9F%92%B0%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%92%B0%20%F0%9F%9A%80%20%232bfd4b
