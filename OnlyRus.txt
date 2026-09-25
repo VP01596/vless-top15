@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-25 06:19:43 UTC
+# Checker 6.0 | OnlyRus.txt | 2026-09-25 06:59:44 UTC
 vless://6f73611a-bfd9-4712-9f33-fda2da70332a@83.217.220.12:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=vtahfDxFYujqkZqtn6NeoO9AX2ChgYzR8GSiRNOv_QI&allowInsecure=1&fp=firefox#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23534726
