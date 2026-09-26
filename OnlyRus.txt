@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-26 12:59:54 UTC
+# Checker 6.0 | OnlyRus.txt | 2026-09-26 13:39:54 UTC
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.169.241:443?type=raw&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=xsKg-Qi8sZNRRaNf6svIUwSw6iMdOTc6Cl82inZFM1Y&flow=xtls-rprx-vision&headerType=none#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9C%B4%EF%B8%8F%20%23bf3a02
