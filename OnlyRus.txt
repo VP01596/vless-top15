@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-27 18:59:45 UTC
+# Checker 6.0 | OnlyRus.txt | 2026-09-27 19:39:51 UTC
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kosta6.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kosta6.api3-max.ru&encryption=none&type=tcp#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%8E%88%20%236fb54b
