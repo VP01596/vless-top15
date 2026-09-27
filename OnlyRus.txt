@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-27 17:40:01 UTC
-vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&sid=3199b70105c62ce0&sni=www.sun6-21.userapi.com#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%234180d7
+# Checker 6.0 | OnlyRus.txt | 2026-09-27 18:59:45 UTC
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kosta6.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=kosta6.api3-max.ru&encryption=none&type=tcp#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%8E%88%20%236fb54b
