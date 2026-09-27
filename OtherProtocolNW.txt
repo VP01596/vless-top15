@@ -1,12 +1,12 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-09-27 11:40:06 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-09-27 12:19:59 UTC
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.190:8443?sni=hopp-romania-new.roxa.org#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%B7%20FRA%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%230d398e
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.100:8443?sni=grape-test-italy.dynuddns.net#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B3%F0%9F%87%B1%20NLD%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23ba0f60
-hysteria2://02bd8b5a-170b-4a79-8e68-9cec710272c7@fi2.chromevpn.cc:443#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23ed08e8
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44330?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23d7013f
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@de01.gotosvo.com:9443?sni=onecloudstream.com#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23ac02b7
-hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?sni=mix.pantera-radio.ru&fp=firefox#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%230f151e
 hysteria2://d900526f-30d7-4f4b-9dbe-e98f17b6fbcc@vpn.ai-boost.tech:2086?sni=vpn.ai-boost.tech&fp=firefox#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%A9%F0%9F%87%AA%20DEU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%97%BA%EF%B8%8F%20%F0%9F%9A%80%20%23fce29c
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@rou0001ntrhy01.tcp-reset-club.net:443?sni=tcp-reset-club.net#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%B4%20ROU%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%234973fa
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44330?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23d7013f
+hysteria2://02bd8b5a-170b-4a79-8e68-9cec710272c7@fi2.chromevpn.cc:443#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%AB%F0%9F%87%AE%20FIN%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%23ed08e8
+hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?sni=mix.pantera-radio.ru&fp=firefox#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B5%F0%9F%87%B1%20POL%20%5BH2%5D%20%F0%9F%8E%88%20%F0%9F%9A%80%20%230f151e
 trojan://dc0d27ba-34d2-4c8b-9cba-9ddbbb632748@91.212.166.6:8090?security=reality&sni=www.nvidia.com&pbk=6_P9RjLdVkjYb9OHiuckOipbY6DVBp3ajAIpywlCeAk&sid=bc&spx=/cgNmVH76TF0WzzC&type=tcp&fp=edge#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B0%F0%9F%87%BF%20KAZ%20%5BTR%5D%20%F0%9F%8E%88%20%239d9570
 hysteria2://RN_3f80eeb4bbd0f13f@192.255.128.123:4431?insecure=1&sni=www.bing.com#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%235a7a9c
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:4431?insecure=1&sni=cabinet.wwwinternetvideo.click#%5B1596%5D%F0%9F%8D%91%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%F0%9F%8D%91%20%F0%9F%9A%80%20%23839f22
