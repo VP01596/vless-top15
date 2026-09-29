@@ -1,4 +1,4 @@
-# Checker 6.0 | noVless.txt | 2026-09-29 15:39:41 UTC
+# Checker 6.0 | noVless.txt | 2026-09-29 16:19:40 UTC
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44313?insecure=1&alpn=h3#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%233456c6
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&security=tls#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23cc54ae
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44330?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23d7013f
