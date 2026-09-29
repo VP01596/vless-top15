@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-29 08:59:50 UTC
-vless://4871e898-0980-402f-882f-e1983ffc851b@193.33.133.195:443?encryption=none&security=reality&sni=ozon.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&type=grpc&serviceName=grpc&mode=gun&fp=chrome#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23210d6b
+# Checker 6.0 | OnlyRus.txt | 2026-09-29 09:39:59 UTC
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kostaa9.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&sni=kostaa9.api3-max.ru&encryption=none&type=tcp&fp=chrome#%5B1596%5D%F0%9F%8E%88%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%8E%88%20%2324e428
