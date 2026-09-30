@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-09-30 01:39:54 UTC
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.169.241:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xsKg-Qi8sZNRRaNf6svIUwSw6iMdOTc6Cl82inZFM1Y&sni=api-maps.yandex.ru#%5B1596%5D%E2%9C%B4%EF%B8%8F%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%9C%B4%EF%B8%8F%20%23bf3a02
+# Checker 6.0 | OnlyRus.txt | 2026-09-30 07:39:50 UTC
+vless://661cfc7d-27c7-4749-90a8-7f9b754352e5@185.229.9.173:442?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.rutube.ru&pbk=02_rMjJUiIk2PgEKOpDC2hfK2LRBwH_WYJ8OcnOMTCQ&sid=de1e2ad8&spx=/&fp=qq#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%2369b9cc
