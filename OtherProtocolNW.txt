@@ -1,4 +1,4 @@
-# Checker 6.0 | OtherProtocolNW.txt | 2026-10-12 12:41:40 UTC
+# Checker 6.0 | OtherProtocolNW.txt | 2026-10-12 13:21:45 UTC
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:44330?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%233a470a
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:4431?insecure=1&sni=msk.frkn.org#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23466176
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:44331?alpn=h3&insecure=1#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%5BH2%5D%20%E2%AD%90%20%F0%9F%93%91%20%F0%9F%9A%80%20%23b5db3f
