@@ -1,3 +1,3 @@
-# Checker 6.0 | OnlyRus.txt | 2026-10-20 04:01:06 UTC
+# Checker 6.0 | OnlyRus.txt | 2026-10-20 04:41:15 UTC
 vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@185.229.9.175:443?type=raw&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=2QoNARj5aaa5-kUEiwx38KzbbiENQZ95V7x9jFo6f2A&sid=88a84e3390fcf4a7&spx=/&flow=xtls-rprx-vision&headerType=none#%5B1596%5D%F0%9F%9F%A8%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%9F%A8%20%232d9a53
 vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@87.242.94.66:7452?type=raw&security=reality&encryption=none&sni=passport.yandex.ru&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&sid=190c27ae5f2e4d2c&spx=/&flow=xtls-rprx-vision&headerType=none#%5B1596%5D%F0%9F%9F%A8%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%9F%A8%20%23433dc6
