@@ -1,4 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-10-20 22:41:21 UTC
-vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@185.229.9.175:443?type=raw&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=2QoNARj5aaa5-kUEiwx38KzbbiENQZ95V7x9jFo6f2A&sid=88a84e3390fcf4a7&spx=/&flow=xtls-rprx-vision&headerType=none#%5B1596%5D%F0%9F%9F%A8%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%9F%A8%20%232d9a53
-vless://0a89f660-04a8-4377-b91f-bd3cb3a56492@87.242.94.66:7452?type=raw&security=reality&encryption=none&sni=passport.yandex.ru&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&sid=190c27ae5f2e4d2c&spx=/&flow=xtls-rprx-vision&headerType=none#%5B1596%5D%F0%9F%9F%A8%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%9F%A8%20%23433dc6
+# Checker 6.0 | OnlyRus.txt | 2026-10-20 23:21:12 UTC
 vless://1ba0439d-384c-4a6e-9560-0439698beb2a@82.202.182.42:3443?security=reality&encryption=none&pbk=YIXOvwrCFxQYKOP_GwdhbzZLlwgBIVVISXDpFZQBt0c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=a5bb22e6a41ff20a#%5B1596%5D%F0%9F%9F%A8%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%F0%9F%9F%A8%20%231a35d5
