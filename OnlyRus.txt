@@ -1,2 +1,2 @@
-# Checker 6.0 | OnlyRus.txt | 2026-10-31 15:26:09 UTC
+# Checker 6.0 | OnlyRus.txt | 2026-10-31 16:06:04 UTC
 vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=ozon.ru&type=tcp&fp=edge#%5B1596%5D%E2%AD%90%20%F0%9F%87%B7%F0%9F%87%BA%20RUS%20%E2%AD%90%20%F0%9F%93%91%20%23b7cd82
